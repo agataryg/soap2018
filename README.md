@@ -6,7 +6,7 @@
 Lorem markdownum veste alias telluris membra, persequerer deficit quoque. An
 tamen. Fuit vir concussit in omnes terras omnia purpureis dextera magnae.
 Temptasse quod abluere, vult dictis, nobis facit!
-+ [psuj](niemamnie.md)
+
 + [poprawny](links.md)
 
     tftpProtectorKeyboard.barcraft_ipv_left += commerce_rw;
