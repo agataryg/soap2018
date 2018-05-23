@@ -1,6 +1,6 @@
 
 # SOAP 2018 Mundi lacrimas moriens per ita hic Marte
-
+[![CircleCI](https://circleci.com/gh/agataryg/soap2018/tree/master.svg?style=svg)](https://circleci.com/gh/agataryg/soap2018/tree/master)
 ## Taedis et claudit videt illa aevo auras
 
 Lorem markdownum veste alias telluris membra, persequerer deficit quoque. An
