@@ -1,0 +1,5 @@
+VFON-2902
+Rationale behind the changes:
+- A few times I changed both heading and link text, mainly to make the text more concise
+- I left "About" only in the 1st heading (About chatting), otherwise it could be confused with a procedure due to the use of gerund
+- I changed "About friends" to "Friends list" to get rid of the philosophical connotations :)
